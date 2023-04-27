@@ -3,7 +3,7 @@ component: Page
 title: View Token | WatchToken
 description: Discover more about our Token. View details, explore or add to MetaMask.
 permalink: /page
-canonicalUrl: https://vittominacori.github.io/watch-token/page/
+canonicalUrl: https://naetion.github.io/NTN-widget/page/
 meta:
     - property: twitter:title
       content: View Token | WatchToken
@@ -14,5 +14,5 @@ meta:
     - property: og:description
       content: Discover more about our Token. View details, explore or add to MetaMask.
     - property: og:url
-      content: https://vittominacori.github.io/watch-token/page/
+      content: https://naetion.github.io/NTN-widget/page/
 ---

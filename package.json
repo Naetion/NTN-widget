@@ -1,6 +1,6 @@
 {
-  "title": "WatchToken",
-  "name": "watch-token",
+  "title": "NTNWidget",
+  "name": "ntn-widget",
   "version": "1.0.0",
   "description": "Create a Widget for your ERC20 or BEP20 Token and share it with your users. Add your Token to DApp browsers or MetaMask both on Ethereum, Binance Smart Chain or Polygon Network.",
   "scripts": {
@@ -12,13 +12,13 @@
   },
   "keywords": [],
   "bugs": {
-    "url": "https://github.com/vittominacori/watch-token/issues"
+    "url": "https://github.com/Naetion/NTN-widget/issues"
   },
   "license": "MIT",
-  "author": "Vittorio Minacori (https://github.com/vittominacori)",
+  "author": "Naetion ApS",
   "repository": {
     "type": "git",
-    "url": "https://github.com/vittominacori/watch-token.git"
+    "url": "https://github.com/Naetion/NTN-widget.git"
   },
   "dependencies": {
     "web3": "^1.7.3"
